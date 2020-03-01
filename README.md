@@ -12,10 +12,10 @@ This code wroted cause of two problems I had:
 
 the usage is simple, after installing dislocker project " https://github.com/Aorimn/dislocker " ,just type: ./bitmount.sh
 
-there are two options ("-m & -u), for mounting and unmounting the drive.
+there are two options (-m & -u), for mounting and unmounting the drive.
 
 for mounting: ./bitmount.sh -m sdaX  	   'sdaX is the name of the drive
 
-and for unmounting: ./bitmount.sh -m sdaX  'sdaX is the name of the drive
+and for unmounting: ./bitmount.sh -u sdaX  'sdaX is the name of the drive
 
 feel free to change as you wish.
